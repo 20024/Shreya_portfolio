@@ -424,3 +424,7 @@ div[role="progressbar"]::before {
   margin-top: 20px;
   padding: 50px;
 }
+button a{
+  text-decoration: none;
+  color: black;
+}
